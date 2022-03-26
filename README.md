@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @WhiteGravys
+- 👀 I’m interested in ... Roblox scripting
+- 🌱 I’m currently learning ... Lua
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
